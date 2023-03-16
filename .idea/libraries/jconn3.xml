@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jconn3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librerias/jconn3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

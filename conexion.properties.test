@@ -1,0 +1,24 @@
+#bd=jdbc:sqlserver://172.31.1.14;databaseName=Fidelidad
+//Conexion Test arg
+bd=jdbc:sqlserver://172.31.1.240;databaseName=Fidelidad
+
+bdpayroll=jdbc:sqlserver://172.31.1.14;databaseName=Payroll
+usuariopayroll=fidelidad
+clavepayroll=f1d3l1d4d$
+usuario=fidelidad
+clave=f1d3l1d4d$
+conexiones=20
+puerto=5010
+//chile test 5110
+MailServer=smtp.gmail.com
+MailUser=alarmaalseaargentina@gmail.com
+MailPassword=4l4rm44l$34.
+MailPort=587
+MailSeguridad=1
+//prod arg jdbc:sqlserver://172.31.1.14;databaseName=Fidelidad
+//test arg jdbc:sqlserver://172.31.1.240;databaseName=Fidelidad
+//test chile jdbc:sqlserver://192.168.198.129;databaseName=Fidelidad-CL_TEST
+//prod chile jdbc:sqlserver://192.168.198.129;databaseName=Fidelidad-CL
+//prod Colombia jdbc:sqlserver://192.168.192.122;databaseName=Fidelidad
+
+
